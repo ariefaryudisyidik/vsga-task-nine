@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catatan Harian</string>
+    <string name="add_note">Tambah Catatan</string>
+    <string name="edit_note">Ubah Catatan</string>
+    <string name="note">Catatan</string>
+    <string name="file_name">Nama File</string>
+    <string name="save">Simpan</string>
+</resources>

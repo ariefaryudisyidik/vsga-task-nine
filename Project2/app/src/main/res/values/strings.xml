@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Validasi Login</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="school_origin">Asal Sekolah</string>
+    <string name="residence">Tempat Tinggal</string>
+    <string name="save">Simpan</string>
+    <string name="empty">Field tidak boleh kosong</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="password_invalid">Password tidak sesuai</string>
+    <string name="register_success">Register Berhasil</string>
+    <string name="register_failed">Register Gagal</string>
+    <string name="user_not_found">User tidak ditemukan</string>
+    <string name="logout">Logout</string>
+    <string name="logout_message">Apakah anda yakin ingin Logout?</string>
+</resources>
